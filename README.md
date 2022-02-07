@@ -1,4 +1,4 @@
 # My-restaurant
 
 
-![Ching chang] (./assets/Chingchang.PNG)
+![Ching chang](./assets/Chingchang.PNG)
